@@ -1,7 +1,7 @@
 ---
 title: "Premier post"
 date: 2020-02-15T09:41:13+01:00
-draft: true <!-- page en projet donc non visible -->
+draft: true
 ---
 Test nouveau contenu
 ## Sous-titre

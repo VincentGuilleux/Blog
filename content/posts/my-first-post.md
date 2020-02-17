@@ -3,7 +3,6 @@ title: "Pourquoi ce blog?"
 date: 2020-02-15T09:41:13+01:00
 draft: false	
 ---
-Test nouveau contenu
 ## Un nouveau départ
 Après 17 ans de carrière essentiellement en cabinet de conseil et d'expertise comptable avec une expertise poussée en particulier en [consolidation](https://fr.wikipedia.org/wiki/Consolidation_comptable), 2020 est l'année de tous les changements : mon premier enfant et une réorientation professionelle !  
 

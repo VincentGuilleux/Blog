@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blissful-sammet-2395f4.netlify.com/</loc>
-    <lastmod>2020-02-15T10:41:47+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blissful-sammet-2395f4.netlify.com/posts/my-third-post/</loc>
     <lastmod>2020-02-15T10:41:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blissful-sammet-2395f4.netlify.com/posts/</loc>
+    <lastmod>2020-02-15T10:41:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blissful-sammet-2395f4.netlify.com/</loc>
     <lastmod>2020-02-15T10:41:47+01:00</lastmod>
   </url>
   

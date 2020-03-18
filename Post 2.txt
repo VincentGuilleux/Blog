@@ -1,0 +1,17 @@
+Le Wagon
+
+Tout est dans le titre, j'ai donc choisi de me former en développement Web via la formation accélérée du Wagon (https://www.lewagon.com/fr/web-development-course/full-time), j'ai donc rejoint la session de Rennes qui a débuté le 24 février dernier.
+
+Pourquoi ce choix ?
+.Je cherchais absolument une formation en présentiel afin de bénéficier de l'émuation du groupe et commencer à me constituer un réseau dans le milieu.
+. Je cherchais une formation assez large dans le contenu (Front/Back/BDD) ; L'objectif étant de construire une vue d'ensemble des différentes briques nécessaires à la construction d'un site Web afin d'approfondir ensuite les sujets qui m'auront le plus intéressé.
+.Le dernier tiers de la formation est consacré au développement d'une application concrète en équipe de 3/4 et choisie par vote à partir du pitch de chacun.
+.La formation existe depuis longtemps et les promotions sont limitées en nombre.
+.L'entretien de sélection par Skype m'a fait bonne impression : échange pragmatique sur mes motivations, pas de "survente" du cursus, nécessité de compléter un cours d'introduction au préalable à Ruby pour pouvoir postuler et travail complémentaire avant la formation d'environ 50h (HTML/CSS/Ruby/JVS). 
+
+Et en pratique ?
+Nous sommes 12 étudiants en présentiel sur 9 semaines de 9h à environ 18h30. 
+Le programme est très bien pensé et l'expérience accumulée des sessions précédentes (nous sommes la promo 381) rend le tout très fluide et bien structuré.
+
+Coronavirus
+

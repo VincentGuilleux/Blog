@@ -1,7 +1,7 @@
 DefaultContentLanguage = "fr"
-baseURL = "https://blissful-sammet-2395f4.netlify.com"
+baseURL = "http://vincentguilleux.fr"
 languageCode = "fr"
-title = "Vincent Guilleux - Mes premiers pas dans le dev"
+title = "Mes premiers pas dans le dev"
 theme = "ananke"
 
 [params]

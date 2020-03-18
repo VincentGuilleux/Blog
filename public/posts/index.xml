@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Vincent Guilleux - Mes premiers pas dans le dev</title>
-    <link>https://blissful-sammet-2395f4.netlify.com/posts/</link>
-    <description>Recent content in Posts on Vincent Guilleux - Mes premiers pas dans le dev</description>
+    <title>Posts on Mes premiers pas dans le dev</title>
+    <link>http://vincentguilleux.fr/posts/</link>
+    <description>Recent content in Posts on Mes premiers pas dans le dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sat, 15 Feb 2020 10:41:47 +0100</lastBuildDate>
     
-	<atom:link href="https://blissful-sammet-2395f4.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vincentguilleux.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Third Post</title>
-      <link>https://blissful-sammet-2395f4.netlify.com/posts/my-third-post/</link>
+      <link>http://vincentguilleux.fr/posts/my-third-post/</link>
       <pubDate>Sat, 15 Feb 2020 10:41:47 +0100</pubDate>
       
-      <guid>https://blissful-sammet-2395f4.netlify.com/posts/my-third-post/</guid>
+      <guid>http://vincentguilleux.fr/posts/my-third-post/</guid>
       <description>DEVRAIT PAS SAFFICHER</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://blissful-sammet-2395f4.netlify.com/posts/my-second-post/</link>
+      <link>http://vincentguilleux.fr/posts/my-second-post/</link>
       <pubDate>Sat, 15 Feb 2020 10:34:43 +0100</pubDate>
       
-      <guid>https://blissful-sammet-2395f4.netlify.com/posts/my-second-post/</guid>
+      <guid>http://vincentguilleux.fr/posts/my-second-post/</guid>
       <description>Bla Bla Bla</description>
     </item>
     
     <item>
       <title>Pourquoi ce blog ?</title>
-      <link>https://blissful-sammet-2395f4.netlify.com/posts/my-first-post/</link>
+      <link>http://vincentguilleux.fr/posts/my-first-post/</link>
       <pubDate>Sat, 15 Feb 2020 09:41:13 +0100</pubDate>
       
-      <guid>https://blissful-sammet-2395f4.netlify.com/posts/my-first-post/</guid>
+      <guid>http://vincentguilleux.fr/posts/my-first-post/</guid>
       <description>Un nouveau départ Après 17 ans de carrière dans le domaine de la finance avec une expertise en consolidation, 2020 est l&amp;rsquo;année de tous les changements : la naissance de mon premier enfant et une réorientation professionelle !
 Pourquoi changer ? Cela fait plusieurs années que le monde du développement informatique m&amp;rsquo;attire mais je n&amp;rsquo;avais jusque là jamais osé sauter le pas. J&amp;rsquo;aime résoudre des problèmes et persévérer pour trouver leur solution.</description>
     </item>

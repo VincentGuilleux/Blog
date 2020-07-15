@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Mes premiers pas dans le dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 12 Jul 2020 16:05:57 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 17:29:57 +0200</lastBuildDate>
     
 	<atom:link href="https://vincentguilleux.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goûts d’Fruits - 2ème partie</title>
+      <link>https://vincentguilleux.fr/posts/my-fifth-post/</link>
+      <pubDate>Wed, 15 Jul 2020 17:29:57 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/my-fifth-post/</guid>
+      <description>Au delà des problématiques techniques détaillées dans mon dernier post, les facteurs clé de succès (© une des expressions très souvent entendues dans ma vie antérieure en conseil) pour mener à bien ce projet étaient de :
+ Collecter et comprendre les besoins de la maraîchère : nous avons pu échanger régulièrement afin de s&amp;rsquo;assurer que nous étions bien en ligne. J&amp;rsquo;ai pu m&amp;rsquo;appuyer sur mon expérience passée dans la gestion de projet et la compréhension des besoins clients pour être le plus efficace et le plus pertinent sachant que la personne était en phase de récolte et préparation des produits donc avec un temps disponible assez limité.</description>
+    </item>
     
     <item>
       <title>Goûts d’Fruits</title>
@@ -18,8 +28,8 @@
       
       <guid>https://vincentguilleux.fr/posts/my-fourth-post/</guid>
       <description>Un site concret valant mieux qu’un long post de blog, rendez-vous ici pour visualiser le site et sur GitHub pour le code source.
-Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre du groupe (merci Anne !).
-Ce site est utilisé par une amie de ma femme qui est maraîchère. Il a une triple vocation :</description>
+Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre de notre groupe projet du Wagon (merci Anne !).
+Ce site est utilisé par une amie de ma femme qui est maraîchère.</description>
     </item>
     
     <item>

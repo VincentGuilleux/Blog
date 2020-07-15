@@ -6,7 +6,7 @@ draft: false
 
 Un site concret valant mieux qu’un long post de blog, rendez-vous [ici](https://www.goutsdfruits.fr) pour visualiser le site et sur [GitHub](https://github.com/VincentGuilleux/goutsdfruits) pour le code source.
 
-Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre du groupe (merci Anne !).
+Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre de notre groupe projet du Wagon (merci Anne !).
 
 Ce site est utilisé par une amie de ma femme qui est maraîchère. Il a une triple vocation :
 * Présenter la ferme et les produits
@@ -33,7 +33,7 @@ Les principales problématiques techniques que j’ai eu à implémenter sont :
 * Export en format Excel de la base de données
 * Site responsive pour mobile
 
-Je reviendrai plus en détail sur certains de ces points lors de prochains posts. Dans le prochain, je détaillerai les points non techniques auxquels j'ai été confronté qui étaient fondamentaux pour la réussite du projet.
+Dans le prochain post, je détaillerai les points non techniques auxquels j'ai été confronté qui étaient fondamentaux pour la réussite du projet.
 
 
 Pour conclure de façon visuelle, une copie d’écran du dashboard :

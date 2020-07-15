@@ -4,7 +4,7 @@ date: 2020-07-12T16:05:57+02:00
 draft: false
 ---
 
-Un site concret valant mieux qu’un long post de blog, rendez-vous [ici](https://www.goutsdfruits.fr) pour visualiser le site !
+Un site concret vallant mieux qu’un long post de blog, rendez-vous [ici](https://www.goutsdfruits.fr) pour visualiser le site !
 
 Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre du groupe (merci Anne !).
 

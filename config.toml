@@ -6,3 +6,5 @@ theme = "ananke"
 
 [params]
 featured_image = "/images/coding_background.jpeg"
+author = "Vincent Guilleux"
+description = "Blog Vincent Guilleux"

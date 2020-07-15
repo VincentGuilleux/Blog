@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mes premiers pas dans le dev</title>
-    <link>https://vincentguilleux.netlify.app/</link>
+    <link>https://vincentguilleux.fr/</link>
     <description>Recent content on Mes premiers pas dans le dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 12 Jul 2020 16:05:57 +0200</lastBuildDate>
     
-	<atom:link href="https://vincentguilleux.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vincentguilleux.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Goûts d’Fruits</title>
-      <link>https://vincentguilleux.netlify.app/posts/my-fourth-post/</link>
+      <link>https://vincentguilleux.fr/posts/my-fourth-post/</link>
       <pubDate>Sun, 12 Jul 2020 16:05:57 +0200</pubDate>
       
-      <guid>https://vincentguilleux.netlify.app/posts/my-fourth-post/</guid>
+      <guid>https://vincentguilleux.fr/posts/my-fourth-post/</guid>
       <description>Un site concret valant mieux qu’un long post de blog, rendez-vous ici pour visualiser le site et sur GitHub pour le code source.
 Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué ensuite avec l’aide ponctuelle d’une membre du groupe (merci Anne !).
 Ce site est utilisé par une amie de ma femme qui est maraîchère. Il a une triple vocation :</description>
@@ -24,30 +24,30 @@ Ce site est utilisé par une amie de ma femme qui est maraîchère. Il a une tri
     
     <item>
       <title>Le Wagon : suite et fin</title>
-      <link>https://vincentguilleux.netlify.app/posts/my-third-post/</link>
+      <link>https://vincentguilleux.fr/posts/my-third-post/</link>
       <pubDate>Tue, 30 Jun 2020 09:49:11 +0200</pubDate>
       
-      <guid>https://vincentguilleux.netlify.app/posts/my-third-post/</guid>
+      <guid>https://vincentguilleux.fr/posts/my-third-post/</guid>
       <description>Disclaimer : ce post est publié plus tard que prévu mais la fin de la formation fut intense comme la suite&amp;hellip;
 Comme expliqué dans mon dernier post, les 2/3 restants de la formation se sont donc effectués à distance du fait du Covid. Néanmoins, le passage en remote s’est bien passé grâce à la réactivité des équipes du Wagon et au fait que nous étions cotoyés physiquement pendant 1 mois : nous avions donc eu la chance d’apprendre à nous connaître et pu créer des liens.</description>
     </item>
     
     <item>
       <title>Le Wagon</title>
-      <link>https://vincentguilleux.netlify.app/posts/my-second-post/</link>
+      <link>https://vincentguilleux.fr/posts/my-second-post/</link>
       <pubDate>Wed, 25 Mar 2020 17:19:57 +0100</pubDate>
       
-      <guid>https://vincentguilleux.netlify.app/posts/my-second-post/</guid>
+      <guid>https://vincentguilleux.fr/posts/my-second-post/</guid>
       <description>J&amp;rsquo;ai donc choisi de me former en développement Web via la formation accélérée du Wagon. J&amp;rsquo;ai rejoint la session de Rennes qui a débuté le 24 février dernier.
 Pourquoi ce choix ?  Je cherchais impérativement une formation en présentiel afin de bénéficier de l&amp;rsquo;émulation de groupe et commencer à me constituer un réseau dans le milieu. Je cherchais une formation assez large dans le contenu (Front/Back/BDD/gestion de projet) afin de me constituer une vue d&amp;rsquo;ensemble des différentes briques nécessaires à la construction d&amp;rsquo;un site Web ; l&amp;rsquo;idée étant ensuite d&amp;rsquo;approfondir suivant mes envies et mes besoins certains de ces thèmes.</description>
     </item>
     
     <item>
       <title>Pourquoi ce blog ?</title>
-      <link>https://vincentguilleux.netlify.app/posts/my-first-post/</link>
+      <link>https://vincentguilleux.fr/posts/my-first-post/</link>
       <pubDate>Sat, 15 Feb 2020 09:41:13 +0100</pubDate>
       
-      <guid>https://vincentguilleux.netlify.app/posts/my-first-post/</guid>
+      <guid>https://vincentguilleux.fr/posts/my-first-post/</guid>
       <description>Un nouveau départ Après 17 ans de carrière dans le domaine de la finance avec une expertise en consolidation, 2020 est l&amp;rsquo;année de tous les changements : la naissance de mon premier enfant et une réorientation professionelle !
 Pourquoi changer ? Cela fait plusieurs années que le monde du développement informatique m&amp;rsquo;attire mais je n&amp;rsquo;avais jusque là jamais osé sauter le pas. J&amp;rsquo;aime résoudre des problèmes et persévérer pour trouver leur solution.</description>
     </item>

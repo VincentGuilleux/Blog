@@ -2,7 +2,7 @@
 title: "Le Wagon : suite et fin"
 date: 2020-06-30T09:49:11+02:00
 draft: false
-tags: [LeWagon]
+tags: [Le Wagon]
 ---
 
 Disclaimer : ce post est publié plus tard que prévu mais la fin de la formation fut intense comme la suite...

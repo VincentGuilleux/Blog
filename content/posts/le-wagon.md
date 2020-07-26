@@ -2,6 +2,7 @@
 title: "Le Wagon"
 date: 2020-03-25T17:19:57+01:00
 draft: false
+tags: [Le Wagon]
 ---
 J'ai donc choisi de me former en développement Web via la formation accélérée du [Wagon](https://www.lewagon.com/fr/web-development-course/full-time). J'ai rejoint la session de Rennes qui a débuté le 24 février dernier.
 

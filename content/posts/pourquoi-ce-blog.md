@@ -2,7 +2,7 @@
 title: "Pourquoi ce blog ?"
 date: 2020-02-15T09:41:13+01:00
 draft: false
-tags: [générique]
+tags: [Intro]
 ---
 ## Un nouveau départ
 Après 17 ans de carrière dans le domaine de la finance avec une expertise en [consolidation](https://fr.wikipedia.org/wiki/Consolidation_comptable), 2020 est l'année de tous les changements : la naissance de mon premier enfant et une réorientation professionelle !

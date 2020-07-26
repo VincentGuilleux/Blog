@@ -2,6 +2,7 @@
 title: "Goûts d’Fruits"
 date: 2020-07-12T16:05:57+02:00
 draft: false
+tags: [Goûts d’Fruits]
 ---
 
 Un site concret valant mieux qu’un long post de blog, rendez-vous [ici](https://www.goutsdfruits.fr) pour le visualiser et sur [GitHub](https://github.com/VincentGuilleux/goutsdfruits) pour le code source.

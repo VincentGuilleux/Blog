@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Le Wagon on Mes premiers pas dans le dev</title>
+    <link>https://vincentguilleux.fr/tags/le-wagon/</link>
+    <description>Recent content in Le Wagon on Mes premiers pas dans le dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 30 Jun 2020 09:49:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://vincentguilleux.fr/tags/le-wagon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le Wagon : suite et fin</title>
+      <link>https://vincentguilleux.fr/posts/le-wagon-suite/</link>
+      <pubDate>Tue, 30 Jun 2020 09:49:11 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/le-wagon-suite/</guid>
+      <description>Disclaimer : ce post est publié plus tard que prévu mais la fin de la formation fut intense comme la suite&amp;hellip;
+Comme expliqué dans mon dernier post, les 2/3 restants de la formation se sont donc effectués à distance du fait du Covid. Néanmoins, le passage en remote s’est bien passé grâce à la réactivité des équipes du Wagon et au fait que nous étions cotoyés physiquement pendant 1 mois : nous avions donc eu la chance d’apprendre à nous connaître et pu créer des liens.</description>
+    </item>
+    
+    <item>
+      <title>Le Wagon</title>
+      <link>https://vincentguilleux.fr/posts/le-wagon/</link>
+      <pubDate>Wed, 25 Mar 2020 17:19:57 +0100</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/le-wagon/</guid>
+      <description>J&amp;rsquo;ai donc choisi de me former en développement Web via la formation accélérée du Wagon. J&amp;rsquo;ai rejoint la session de Rennes qui a débuté le 24 février dernier.
+Pourquoi ce choix ?  Je cherchais impérativement une formation en présentiel afin de bénéficier de l&amp;rsquo;émulation de groupe et commencer à me constituer un réseau dans le milieu. Je cherchais une formation assez large dans le contenu (Front/Back/BDD/gestion de projet) afin de me constituer une vue d&amp;rsquo;ensemble des différentes briques nécessaires à la construction d&amp;rsquo;un site Web ; l&amp;rsquo;idée étant ensuite d&amp;rsquo;approfondir suivant mes envies et mes besoins certains de ces thèmes.</description>
+    </item>
+    
+  </channel>
+</rss>

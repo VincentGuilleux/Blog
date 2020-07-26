@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Mes premiers pas dans le dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Wed, 15 Jul 2020 17:29:57 +0200</lastBuildDate>
     
 	<atom:link href="https://vincentguilleux.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Goûts d’Fruits</title>
+      <link>https://vincentguilleux.fr/tags/go%C3%BBts-dfruits/</link>
+      <pubDate>Wed, 15 Jul 2020 17:29:57 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/tags/go%C3%BBts-dfruits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Wagon</title>
+      <link>https://vincentguilleux.fr/tags/le-wagon/</link>
+      <pubDate>Tue, 30 Jun 2020 09:49:11 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/tags/le-wagon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>https://vincentguilleux.fr/tags/intro/</link>
+      <pubDate>Sat, 15 Feb 2020 09:41:13 +0100</pubDate>
+      
+      <guid>https://vincentguilleux.fr/tags/intro/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on Mes premiers pas dans le dev</title>
+    <link>https://vincentguilleux.fr/tags/intro/</link>
+    <description>Recent content in Intro on Mes premiers pas dans le dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 15 Feb 2020 09:41:13 +0100</lastBuildDate>
+    
+	<atom:link href="https://vincentguilleux.fr/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pourquoi ce blog ?</title>
+      <link>https://vincentguilleux.fr/posts/pourquoi-ce-blog/</link>
+      <pubDate>Sat, 15 Feb 2020 09:41:13 +0100</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/pourquoi-ce-blog/</guid>
+      <description>Un nouveau départ Après 17 ans de carrière dans le domaine de la finance avec une expertise en consolidation, 2020 est l&amp;rsquo;année de tous les changements : la naissance de mon premier enfant et une réorientation professionelle !
+Pourquoi changer ? Cela fait plusieurs années que le monde du développement informatique m&amp;rsquo;attire mais je n&amp;rsquo;avais jusque là jamais osé sauter le pas. J&amp;rsquo;aime résoudre des problèmes et persévérer pour trouver leur solution.</description>
+    </item>
+    
+  </channel>
+</rss>

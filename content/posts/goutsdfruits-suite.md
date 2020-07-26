@@ -2,6 +2,7 @@
 title: "Goûts d’Fruits - suite"
 date: 2020-07-15T17:29:57+02:00
 draft: false
+tags: [Goûts d’Fruits]
 ---
 
 Au delà des problématiques techniques détaillées dans mon dernier post, les facteurs clés de succès (expression très souvent entendue dans ma vie antérieure en conseil...) pour mener à bien ce projet étaient de :

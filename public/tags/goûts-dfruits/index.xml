@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goûts d’Fruits on Mes premiers pas dans le dev</title>
+    <link>https://vincentguilleux.fr/tags/go%C3%BBts-dfruits/</link>
+    <description>Recent content in Goûts d’Fruits on Mes premiers pas dans le dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 15 Jul 2020 17:29:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://vincentguilleux.fr/tags/go%C3%BBts-dfruits/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goûts d’Fruits - suite</title>
+      <link>https://vincentguilleux.fr/posts/goutsdfruits-suite/</link>
+      <pubDate>Wed, 15 Jul 2020 17:29:57 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/goutsdfruits-suite/</guid>
+      <description>Au delà des problématiques techniques détaillées dans mon dernier post, les facteurs clés de succès (expression très souvent entendue dans ma vie antérieure en conseil&amp;hellip;) pour mener à bien ce projet étaient de :
+ Collecter et comprendre les besoins de la maraîchère : nous avons pu échanger régulièrement afin de nous assurer que nous étions bien en ligne. J&amp;rsquo;ai pu m&amp;rsquo;appuyer sur mon expérience passée dans la gestion de projet et la compréhension des besoins clients pour être le plus efficace et le plus pertinent possible sachant que Marie était en période de récolte et préparation des produits donc avec un temps disponible assez limité.</description>
+    </item>
+    
+    <item>
+      <title>Goûts d’Fruits</title>
+      <link>https://vincentguilleux.fr/posts/goutsdfruits/</link>
+      <pubDate>Sun, 12 Jul 2020 16:05:57 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/goutsdfruits/</guid>
+      <description>Un site concret valant mieux qu’un long post de blog, rendez-vous ici pour le visualiser et sur GitHub pour le code source.
+Comme indiqué dans mon dernier post, il s’agit donc de la première version du site initié en fin de formation que j’ai continué à développer avec l’aide ponctuelle d’une membre de notre groupe projet du Wagon (merci Anne !).
+Ce site est utilisé par Marie, une amie de ma femme qui est maraîchère.</description>
+    </item>
+    
+  </channel>
+</rss>

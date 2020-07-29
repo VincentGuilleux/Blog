@@ -3,10 +3,11 @@ baseURL = "https://vincentguilleux.fr"
 languageCode = "fr"
 title = "Mes premiers pas dans le dev"
 theme = "ananke"
+disqusShortname = "vincentguilleux-fr"
+
 
 [params]
 featured_image = "/images/coding_background.jpeg"
 author = "Vincent Guilleux"
 description = "Blog Vincent Guilleux"
 show_reading_time = true
-disqusShortname = "vincentguilleux-fr"

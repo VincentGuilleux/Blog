@@ -53,6 +53,27 @@
     <!-- <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"> -->
       {{- .Content -}}
        <!-- {{- partial "tags.html" . -}} Reclassé en haut de l'article -->
+
+       <!-- Added div for contact form via formspree -->
+       <div class="contactform">
+          <form
+            id="contact"
+            action="https://formspree.io/xqkbanyn"
+            method="POST"
+          >
+            <h3>Formulaire de contact</h3>
+            <fieldset>
+              <input placeholder="Votre email" type="email" name="_replyto" tabindex="1" required>
+            </fieldset>
+            <fieldset>
+              <textarea name="message" placeholder="Ecrivez votre message ici..." tabindex="2" required></textarea>
+            </fieldset>
+            <fieldset>
+              <button type="submit" id="contact-submit">Envoyer</button>
+            </fieldset>
+          </form>
+       </div>
+
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
@@ -67,6 +88,6 @@
       {{- partial "menu-contextual.html" . -}}
       Annoté car crée des liens Lié dont je ne sais comment ils sont générés (lié à la taxonomy a priori)
     </aside> -->
-    {{ template "_internal/disqus.html" . }}
+
   </article>
 {{ end }}

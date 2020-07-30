@@ -5,9 +5,9 @@ title = "Mes premiers pas dans le dev"
 theme = "ananke"
 disqusShortname = "vincentguilleux-fr"
 
-
 [params]
 featured_image = "/images/coding_background.jpeg"
 author = "Vincent Guilleux"
 description = "Blog Vincent Guilleux"
+custom_css = ["css/contact-form.css"]
 show_reading_time = true

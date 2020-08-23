@@ -18,6 +18,8 @@
     
 
     
+      <link rel="stylesheet" href="/css/contact-form.css">
+    
 
     
       
@@ -163,54 +165,35 @@ Nous avons eu également la chance d’échanger avec des recruteurs, des freela
 <p>Pour conclure, je suis globalement très satisfait de la formation car elle m’a permis comme je l’espérais en 2 mois d’avoir une vue d’ensemble des éléments nécessaires à l’élaboration d’un site Internet fonctionnel. La progression est je trouve très bien pensée et architecturée au regard du temps très court de formation. Evidemment, comme je l’avais imaginé, l’objectif pour moi était d’assimiler un maximum de connaissances mais aussi (et surtout ?) d’acquérir les bons réflexes et les meilleures pratiques ainsi que de développer mon réseau. Je n’ai posé que les premiers jalons et comme on nous l’a répété en fin de parcours, pour tirer au mieux parti de ces 2 mois d’apprentissage, pas de secret, il faut continuer à coder.</p>
 <p>A bientôt pour mon parcours post formation !</p>
 
+
+       
+       <div class="contactform pt6 mt6">
+          <form
+            id="contact"
+            action="https://formspree.io/xqkbanyn"
+            method="POST"
+          >
+            <h3>Formulaire de contact</h3>
+            <fieldset>
+              <input placeholder="Votre email" type="email" name="_replyto" tabindex="1" required>
+            </fieldset>
+            <fieldset>
+              <textarea name="message" placeholder="Ecrivez votre message ici..." tabindex="2" required></textarea>
+            </fieldset>
+            <fieldset>
+              <button type="submit" id="contact-submit">Envoyer</button>
+            </fieldset>
+          </form>
+       </div>
+
       <div class="mt6 instapaper_ignoref">
-      
-        <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "vincentguilleux-fr" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       
       
       </div>
     </div>
 
     
-    <div id="disqus_thread"></div>
-<script type="application/javascript">
-    var disqus_config = function () {
-    
-    
-    
-    };
-    (function() {
-        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
-            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
-            return;
-        }
-        var d = document, s = d.createElement('script'); s.async = true;
-        s.src = '//' + "vincentguilleux-fr" + '.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
   </article>
 
     </main>

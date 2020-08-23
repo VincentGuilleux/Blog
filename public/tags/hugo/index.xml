@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mes premiers pas dans le dev</title>
+    <link>https://vincentguilleux.fr/tags/hugo/</link>
+    <description>Recent content in Hugo on Mes premiers pas dans le dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 30 Jul 2020 13:56:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://vincentguilleux.fr/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://vincentguilleux.fr/posts/hugo/</link>
+      <pubDate>Thu, 30 Jul 2020 13:56:12 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/hugo/</guid>
+      <description>Le sujet du jour : comment créer son blog avec Hugo, un générateur open-source de sites Web statiques. C&amp;rsquo;est avec cet outil que j&amp;rsquo;ai construit ce blog.
+Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&amp;rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points.</description>
+    </item>
+    
+  </channel>
+</rss>

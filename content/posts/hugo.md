@@ -29,10 +29,7 @@ Les noms des fichiers sont explicites, [à retenir notamment](https://gohugo.io/
 
 * Ajout d'un formulaire de contact : j'ai utilisé [Formspree](formspree.io) comme proxy pour l'envoi de l'email. Là aussi, c'est très simple à implémenter, recopier le code HTML fourni par Formspree et customizer le layout (dans ce cas, j'ai trouvé utile de créer un fichier CSS dédié que j'ai donc rajouté à mon fichier config.toml comme expliqué [ici](https://themes.gohugo.io/gohugo-theme-ananke/#custom-css).
 
-* Ajout de commentaires : j'ai implémenté [Disqs](https://disqus.com/) récemment car c'est gratuit (moyennant pub) et très facile à implémenter dans un site statique Hugo ([2 lignes de code suffisent](https://gohugo.io/content-management/comments/)). Mais je l'ai retiré assez vite car en fouillant un peu sur Internet, de nombreux utilisateurs se plaignent pour de multiples raisons (lenteur, tracking, nécessité d'avoir un compte Disq pour commenter...). Et à l'usage, ces bandeaux de pub sont quand même très moches et nous rappellent un peu trop au bon souvenir des sites de la fin des années 90 :) Bref, j'ai regardé les alternatives et j'essaierai d'en implémenter une prochainement.
-<br>
-<br>
-<br>
-<br>
+* Ajout de commentaires : j'ai implémenté [Disqs](https://disqus.com/) récemment car c'est gratuit (moyennant pub) et très facile à implémenter dans un site statique Hugo ([2 lignes de code suffisent](https://gohugo.io/content-management/comments/)). Mais je l'ai retiré assez vite car en fouillant un peu, de nombreux utilisateurs se plaignent pour de multiples raisons (lenteur, tracking, nécessité d'avoir un compte Disq pour commenter...). Et à l'usage, ces bandeaux de pub sont quand même très moches et rappellent je trouve un peu trop au bon souvenir des sites de la fin des années 90 :) Bref, j'ai regardé les alternatives et j'essaierai d'en implémenter une prochainement.
 
-Au final, l'utilisation d'Hugo m'a convaincu car j'ai trouvé assez simple et rapide de construire son blog ainsi tout en me laissant la possibilité de personnaliser à ma guise chacun des éléments comme détaillé ci-dessus. Cela m'a permis sinon à titre perso de me replonger un peu dans des sujets front-end et de découvrir des services clés en main à implémenter sur de tels sites statiques (Formspree, Disqs ou équivalent...)
+Au final, l'utilisation d'Hugo m'a convaincu car j'ai trouvé assez simple et rapide de construire son blog ainsi tout en me laissant la possibilité de personnaliser à ma guise chacun des éléments comme détaillé ci-dessus. Cela m'a permis sinon à titre perso de me replonger un peu dans des sujets front-end et de découvrir des services clés en main à implémenter sur de tels sites statiques (Formspree, Disqs ou équivalent...).
+

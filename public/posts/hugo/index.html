@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Mes premiers pas dans le dev  | Hugo</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.0" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    
+
+    
+    
+      <link href="/dist/css/app.1cb140d8ba31d5b2f1114537dd04802a.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/css/contact-form.css">
+    
+
+    
+      
+    
+
+    
+    
+    <meta property="og:title" content="Hugo" />
+<meta property="og:description" content="Le sujet du jour : comment créer son blog avec Hugo, un générateur open-source de sites Web statiques. C&rsquo;est avec cet outil que j&rsquo;ai construit ce blog.
+Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://vincentguilleux.fr/posts/hugo/" />
+<meta property="article:published_time" content="2020-07-30T13:56:12+02:00" />
+<meta property="article:modified_time" content="2020-07-30T13:56:12+02:00" />
+<meta itemprop="name" content="Hugo">
+<meta itemprop="description" content="Le sujet du jour : comment créer son blog avec Hugo, un générateur open-source de sites Web statiques. C&rsquo;est avec cet outil que j&rsquo;ai construit ce blog.
+Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points.">
+<meta itemprop="datePublished" content="2020-07-30T13:56:12&#43;02:00" />
+<meta itemprop="dateModified" content="2020-07-30T13:56:12&#43;02:00" />
+<meta itemprop="wordCount" content="807">
+
+
+
+<meta itemprop="keywords" content="Hugo," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo"/>
+<meta name="twitter:description" content="Le sujet du jour : comment créer son blog avec Hugo, un générateur open-source de sites Web statiques. C&rsquo;est avec cet outil que j&rsquo;ai construit ce blog.
+Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points."/>
+
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://vincentguilleux.fr" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+      Vincent Guilleux
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        POSTS
+      </aside>
+      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://vincentguilleux.fr/posts/hugo/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://vincentguilleux.fr/posts/hugo/&amp;text=Hugo" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://vincentguilleux.fr/posts/hugo/&amp;title=Hugo" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+      <h1 class="f1 athelas mt3 mb1">Hugo</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-07-30T13:56:12&#43;02:00">July 30, 2020</time>
+
+      
+      
+        <span class="f6 mv4 dib tracked"> - Lecture 4 minutes</span>
+        
+      
+      <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-100-l"><ul class="pa0">
+  
+   <li class="list">
+     <a href="/tags/hugo" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Hugo</a>
+   </li>
+  
+</ul>
+</div>
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-100-l">
+    <p>Le sujet du jour : comment créer son blog avec <a href="https://gohugo.io/">Hugo</a>, un générateur open-source de sites Web statiques. C&rsquo;est avec cet outil que j&rsquo;ai construit ce blog.</p>
+<p>Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points.
+NB : tous les outils que je décris ci-dessous sont gratuits.</p>
+<ul>
+<li>
+<p>Quick start : <a href="https://gohugo.io/getting-started/quick-start/">https://gohugo.io/getting-started/quick-start/</a>
+Le point de départ pour créer votre blog avec Hugo. En particulier, vous choisissez ici un <a href="https://themes.gohugo.io/">thème</a> de base pour votre layout, il est important de se référer à la page dédiée pour vérifier les spécificités du thème en question (support Turbolinks, responsive, langages, taxonomies, librairie CSS&hellip;)</p>
+</li>
+<li>
+<p>Déploiement sur GitHub : vous pouvez vous référer à la <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">documentation Hugo</a> et je vous conseille également <a href="https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d">cet article</a>. Quel est l&rsquo;intérêt me direz-vous ? C&rsquo;est expliqué juste en dessous.</p>
+</li>
+<li>
+<p>Hébergement sur Netifly : J&rsquo;ai choisi Netifly pour l&rsquo;hébergement de mon blog, notamment pour le &lsquo;continuous deployment&rsquo; qui permet une mise à jour automatique du site à chaque push sur GitHub. La encore, le <a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">tuto Hugo</a> est assez explicite. Donc aucune manipulation complémentaire à faire une fois la mise à jour du site pushée sur GitHub, Netifly se charge automatiquement et quasi-instantanément du déploiement sur votre nom de domaine.</p>
+</li>
+<li>
+<p>Personnalisation du layout de votre thème :
+Vous pouvez &lsquo;overrider&rsquo; le CSS de base du thème que vous avez choisi. La façon de procéder dépend dudit thème donc référez vous à sa doc.
+Pour ma part, je n&rsquo;ai pas créé de surcouche CSS spécifique mais préféré modifié les classes CSS directement dans les fichiers partials concernés du thème afin de conserver une arborescence simple. C&rsquo;était possible dans mon cas car le thème Ananke utilise la librairie CSS <a href="http://tachyons.io/">Tachyons</a> qui contient de multiples classes (sizing, padding&hellip; un peu à l&rsquo;image de bootstrap), du coup j&rsquo;ai pu modifier directement les classes dans les fichiers HTML sans avoir à créer de nouvelles classes CSS.
+Pour ce faire, une chose importante à retenir : ne pas modifier directement les fichiers du thème stockés dans <em>themes/themename/</em> mais les copier à la racine de votre dossier en conservant l&rsquo;arborescence initiale. Par exemple, si vous voulez modifier le header par défaut du thème ananke stocké dans <em>ananke/layouts/partials/site-header.html</em>, copiez ce fichier dans <em>layouts/partials/</em> et modifiez la version dupliquée. Sinon de ma petite expérience vous allez au devant de quelques problèmes :) (en outre, cela posera nécessairement problème en cas de mise à jour du thème). Du coup, vous vous retrouvez dans <em>/layouts/</em> uniquement avec les fichiers que vous avez modifié et ceux-ci vont automatiquement être utilisés pour construire les pages de votre site à la place de ceux stockés dans le répertoire du thème.
+Les noms des fichiers sont explicites, <a href="https://gohugo.io/templates/base/">à retenir notamment</a> les fichiers suivants :</p>
+<ul>
+<li>le modèle html de base (pour toutes les pages du site) : <em>layouts/_default/baseof.html</em></li>
+<li>le fichier html pour un post individuel : <em>layouts/_default/single.html</em></li>
+</ul>
+</li>
+<li>
+<p>Ajout de tags pour catégoriser vos posts : afin qu&rsquo;un utilisateur puisse lister tous les posts relatifs à un sujet donné. Pour implémenter cette fonctionnalité appelée &lsquo;taxonomies&rsquo; dans Hugo, rien de bien sorcier, vous pouvez suivre par exemple <a href="https://www.jakewiesler.com/blog/hugo-taxonomies">ce tuto</a>. A noter que le recours à ces tags génère automatiquement une page <em>nomdusite/tags/</em> listant l&rsquo;ensemble des articles classés par tag ainsi qu&rsquo;une page par tag dans <em>nomdusite/tags/tagname</em>.</p>
+</li>
+<li>
+<p>Ajout d&rsquo;un formulaire de contact : j&rsquo;ai utilisé <a href="formspree.io">Formspree</a> comme proxy pour l&rsquo;envoi de l&rsquo;email. Là aussi, c&rsquo;est très simple à implémenter, recopier le code HTML fourni par Formspree et customizer le layout (dans ce cas, j&rsquo;ai trouvé utile de créer un fichier CSS dédié que j&rsquo;ai donc rajouté à mon fichier config.toml comme expliqué <a href="https://themes.gohugo.io/gohugo-theme-ananke/#custom-css">ici</a>.</p>
+</li>
+<li>
+<p>Ajout de commentaires : j&rsquo;ai implémenté <a href="https://disqus.com/">Disqs</a> récemment car c&rsquo;est gratuit (moyennant pub) et très facile à implémenter dans un site statique Hugo (<a href="https://gohugo.io/content-management/comments/">2 lignes de code suffisent</a>). Mais je l&rsquo;ai retiré assez vite car en fouillant un peu, de nombreux utilisateurs se plaignent pour de multiples raisons (lenteur, tracking, nécessité d&rsquo;avoir un compte Disq pour commenter&hellip;). Et à l&rsquo;usage, ces bandeaux de pub sont quand même très moches et rappellent je trouve un peu trop au bon souvenir des sites de la fin des années 90 :) Bref, j&rsquo;ai regardé les alternatives et j&rsquo;essaierai d&rsquo;en implémenter une prochainement.</p>
+</li>
+</ul>
+<p>Au final, l&rsquo;utilisation d&rsquo;Hugo m&rsquo;a convaincu car j&rsquo;ai trouvé assez simple et rapide de construire son blog ainsi tout en me laissant la possibilité de personnaliser à ma guise chacun des éléments comme détaillé ci-dessus. Cela m&rsquo;a permis sinon à titre perso de me replonger un peu dans des sujets front-end et de découvrir des services clés en main à implémenter sur de tels sites statiques (Formspree, Disqs ou équivalent&hellip;).</p>
+
+
+       
+       <div class="contactform pt6 mt6">
+          <form
+            id="contact"
+            action="https://formspree.io/xqkbanyn"
+            method="POST"
+          >
+            <h3>Formulaire de contact</h3>
+            <fieldset>
+              <input placeholder="Votre email" type="email" name="_replyto" tabindex="1" required>
+            </fieldset>
+            <fieldset>
+              <textarea name="message" placeholder="Ecrivez votre message ici..." tabindex="2" required></textarea>
+            </fieldset>
+            <fieldset>
+              <button type="submit" id="contact-submit">Envoyer</button>
+            </fieldset>
+          </form>
+       </div>
+
+      <div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://vincentguilleux.fr" >
+    
+    &copy;  Blog Vincent Guilleux 2020 
+
+  </a>
+    <div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body>
+</html>

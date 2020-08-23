@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vincentguilleux.fr/tags/hugo/</loc>
+    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/posts/hugo/</loc>
+    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/</loc>
+    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/posts/</loc>
+    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/tags/</loc>
+    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vincentguilleux.fr/tags/go%C3%BBts-dfruits/</loc>
     <lastmod>2020-07-15T17:29:57+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://vincentguilleux.fr/posts/goutsdfruits-suite/</loc>
-    <lastmod>2020-07-15T17:29:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vincentguilleux.fr/</loc>
-    <lastmod>2020-07-15T17:29:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vincentguilleux.fr/posts/</loc>
-    <lastmod>2020-07-15T17:29:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vincentguilleux.fr/tags/</loc>
     <lastmod>2020-07-15T17:29:57+02:00</lastmod>
   </url>
   

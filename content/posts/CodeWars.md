@@ -64,6 +64,7 @@ end
 Voilà une première version de la fonction de conversion valide. Après refactorisation et utilisation de l'itérateur *each*, cette même solution peut être synthétisée comme suit :
 ```ruby
 def conversion_refacto(roman)
+
   result = 0
   conv_table = {
     'I' => 1,
@@ -81,6 +82,7 @@ def conversion_refacto(roman)
     next_letter_value.nil? || current_letter_value >= next_letter_value ? result += current_letter_value : result -= current_letter_value
   end
   result
+
 end
 ```
 
@@ -121,4 +123,4 @@ La dernière ligne digits renvoit pour chaque membre de l'array digits de valeur
 
 NB : pour ceux qui comme moi se posent la question de l'intérêt dans cette solution de *reverse* l'array, testez la sans le *reverse* avec par exemple 'XXI'.
 
-En conclusion, je trouve très utile d'avoir accès aux solutions notées les plus pertinentes afin d'améliorer sa syntaxe et sa logique algorithmique. Cela dit, dans certains cas, à mon niveau, la volonté de compression syntaxique peut prendre le pas sur la lisibilité et la compréhension du code :)
+En conclusion, je trouve très utile d'avoir accès aux solutions notées les plus pertinentes afin d'améliorer sa syntaxe et sa logique algorithmique. Cela permet aussi de visualiser comment le problème peut être résolu par des développeurs expérimentés. Ceci étant, certaines solutions notées comme les plus pertinentes ne sont pas forcément les plus lisibles, en tout cas c'est fonction du niveau de chacun. Ainsi, ma proposition après refactorisation est plus facile à comprendre pour moi que la solution la mieux notée qu'il m'a fallu un peu de temps pour décortiquer.

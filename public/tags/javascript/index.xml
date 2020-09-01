@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Mes premiers pas dans le dev</title>
+    <link>https://vincentguilleux.fr/tags/javascript/</link>
+    <description>Recent content in JavaScript on Mes premiers pas dans le dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 23 Aug 2020 14:52:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://vincentguilleux.fr/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaScript30</title>
+      <link>https://vincentguilleux.fr/posts/javascript30/</link>
+      <pubDate>Sun, 23 Aug 2020 14:52:20 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/javascript30/</guid>
+      <description>Parmi les conseils de fin de formation du Wagon, on nous a conseillé ce tutoriel pour approfondir JavaScript. En effet, durant le bootcamp, en dehors des projets, seule une semaine était exclusivement consacrée à ce langage. Or comme ce dernier est incontournable pour le développement Web, il me semblait important d&amp;rsquo;acquérir des bases sûres en pur JS avant de m&amp;rsquo;attaquer si besoin à des frameworks style React.
+Vous trouverez mes réponses aux différents exercices sur mon GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

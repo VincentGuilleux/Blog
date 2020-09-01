@@ -46,3 +46,6 @@ author = "Vincent Guilleux"
 description = "Blog Vincent Guilleux"
 custom_css = ["css/contact-form.css"]
 show_reading_time = true
+linkedin = "https://www.linkedin.com/in/vincent-guilleux/"
+github = "https://github.com/VincentGuilleux/"
+

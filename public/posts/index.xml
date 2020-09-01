@@ -6,10 +6,31 @@
     <description>Recent content in Posts on Mes premiers pas dans le dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 30 Jul 2020 13:56:12 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 14:52:20 +0200</lastBuildDate>
     
 	<atom:link href="https://vincentguilleux.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CodeWars</title>
+      <link>https://vincentguilleux.fr/posts/codewars/</link>
+      <pubDate>Wed, 26 Aug 2020 14:52:20 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/codewars/</guid>
+      <description>Pour progresser en algorithmique, je fais de temps en temps des exercices sur CodeWars.
+Je vais partager aujourd&amp;rsquo;hui mon raisonnement sur un problème que j&amp;rsquo;avais trouvé intéressant : la conversion d&amp;rsquo;un nombre en chiffres romains vers sa valeur dans notre système décimal. La fonction correspondante est nommée conversion et prend pour unique paramètre la chaîne de caractères correspondant au nombre libellé en chiffre romains.
+def conversion(roman) end Avec un exemple de possible test booléen associé :</description>
+    </item>
+    
+    <item>
+      <title>JavaScript30</title>
+      <link>https://vincentguilleux.fr/posts/javascript30/</link>
+      <pubDate>Sun, 23 Aug 2020 14:52:20 +0200</pubDate>
+      
+      <guid>https://vincentguilleux.fr/posts/javascript30/</guid>
+      <description>Parmi les conseils de fin de formation du Wagon, on nous a conseillé ce tutoriel pour approfondir JavaScript. En effet, durant le bootcamp, en dehors des projets, seule une semaine était exclusivement consacrée à ce langage. Or comme ce dernier est incontournable pour le développement Web, il me semblait important d&amp;rsquo;acquérir des bases sûres en pur JS avant de m&amp;rsquo;attaquer si besoin à des frameworks style React.
+Vous trouverez mes réponses aux différents exercices sur mon GitHub.</description>
+    </item>
     
     <item>
       <title>Hugo</title>
@@ -18,7 +39,7 @@
       
       <guid>https://vincentguilleux.fr/posts/hugo/</guid>
       <description>Le sujet du jour : comment créer son blog avec Hugo, un générateur open-source de sites Web statiques. C&amp;rsquo;est avec cet outil que j&amp;rsquo;ai construit ce blog.
-Je ne vais pas détailler toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&amp;rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points.</description>
+Je ne vais pas détailler ici toutes les étapes de création et de personalisation car les tutos Hugo et articles de blog sur le sujet expliquent très bien les différentes étapes. Vous trouverez donc ci-dessous les différents éléments que j&amp;rsquo;ai implémenté sur ce blog avec les liens correspondants et si nécessaire quelques explications complémentaires sur certains points.</description>
     </item>
     
     <item>

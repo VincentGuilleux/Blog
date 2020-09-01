@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vincentguilleux.fr/tags/algorithmique/</loc>
+    <lastmod>2020-08-26T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/posts/codewars/</loc>
+    <lastmod>2020-08-26T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/</loc>
+    <lastmod>2020-08-26T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/posts/</loc>
+    <lastmod>2020-08-26T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/tags/</loc>
+    <lastmod>2020-08-26T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/tags/javascript/</loc>
+    <lastmod>2020-08-23T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vincentguilleux.fr/posts/javascript30/</loc>
+    <lastmod>2020-08-23T14:52:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vincentguilleux.fr/tags/hugo/</loc>
     <lastmod>2020-07-30T13:56:12+02:00</lastmod>
   </url>
@@ -13,18 +48,8 @@
   </url>
   
   <url>
-    <loc>https://vincentguilleux.fr/</loc>
-    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vincentguilleux.fr/posts/</loc>
-    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vincentguilleux.fr/tags/</loc>
-    <lastmod>2020-07-30T13:56:12+02:00</lastmod>
+    <loc>https://vincentguilleux.fr/bio/</loc>
+    <lastmod>2020-07-15T17:29:57+02:00</lastmod>
   </url>
   
   <url>

@@ -4,6 +4,42 @@ languageCode = "fr"
 title = "Mes premiers pas dans le dev"
 theme = "ananke"
 
+[menu]
+  [[menu.main]]
+  identifier = "home"
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "bio"
+  name = "Bio"
+  url = "/bio"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "mailto:vincent.guilleux11@gmail.com"
+  weight = 5
+
+  [[menu.social]]
+    name = "GitHub"
+    url = "https://github.com/VincentGuilleux"
+    pre = "<i class='fab fa-github'></i>"
+
 [params]
 featured_image = "/images/coding_background.jpeg"
 author = "Vincent Guilleux"

@@ -9,7 +9,7 @@ Parmi les conseils de fin de formation du Wagon, on nous a conseillé [ce tutori
 
 Vous trouverez mes réponses aux différents exercices sur mon [GitHub](https://github.com/VincentGuilleux/JavaScript30).
 
-J'ai trouvé le format assez ludique et le contenu bien adapté à mon niveau junior sur JS. J'ai finalisé 2/3 des exercices à aujourd'hui. Ceux-ci m'ont permis de mieux comprendre certains points abordés en formation et d'acquérir de nouvelles compétences. Vous trouverez ci-dessous certains de ces éléments :
+J'ai trouvé le format assez ludique et le contenu bien adapté à mon niveau sur JS. J'ai finalisé 2/3 des exercices à aujourd'hui. Ceux-ci m'ont permis de mieux comprendre certains points abordés en formation et d'acquérir de nouvelles compétences. Vous trouverez ci-dessous certains de ces éléments :
 * Non-équivalence entre les 2 syntaxes possibles de déclaration des fonctions en JS ("classique" vs arrow function) du fait de la différence de traitement du keyword this entre les 2 syntaxes. Il conviendra de privilégier la syntaxe classique en cas de méthodes d'objet et de fonctions callback avec un contexte dynamique (par exemple dans le cas d'un EventListener). Pour des explications complètes, j'ai trouvé cet [article](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/) bien construit.
 * Les différentes méthodes d'itération : reduce, map, filter, sort... (et sujets connexes comme par exemple comment convertir une NodeList en array)
 * localStorage : stockage web qui permet aux sites et applications JavaScript de stocker et d'accéder à des données directement dans le navigateur, sans date d'expiration.

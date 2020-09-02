@@ -1,6 +1,6 @@
 ---
 title: "Bio"
-layout: staticpage
+type: static
 ---
 
 Je suis en reconversion dans le développement après plus de 15 ans de carrière en conseil en consolidation et contrôle de gestion.

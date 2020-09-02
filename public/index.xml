@@ -43,15 +43,6 @@ Je ne vais pas détailler ici toutes les étapes de création et de personalisat
     </item>
     
     <item>
-      <title>Bio</title>
-      <link>https://vincentguilleux.fr/bio/</link>
-      <pubDate>Wed, 15 Jul 2020 17:29:57 +0200</pubDate>
-      
-      <guid>https://vincentguilleux.fr/bio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Goûts d’Fruits - suite</title>
       <link>https://vincentguilleux.fr/posts/goutsdfruits-suite/</link>
       <pubDate>Wed, 15 Jul 2020 17:29:57 +0200</pubDate>
@@ -100,6 +91,29 @@ Pourquoi ce choix ?  Je cherchais impérativement une formation en présentiel a
       <guid>https://vincentguilleux.fr/posts/pourquoi-ce-blog/</guid>
       <description>Un nouveau départ Après 17 ans de carrière dans le domaine de la finance avec une expertise en consolidation, 2020 est l&amp;rsquo;année de tous les changements : la naissance de mon premier enfant et une réorientation professionelle !
 Pourquoi changer ? Cela fait plusieurs années que le monde du développement informatique m&amp;rsquo;attire mais je n&amp;rsquo;avais jusque là jamais osé sauter le pas. J&amp;rsquo;aime résoudre des problèmes et persévérer pour trouver leur solution.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vincentguilleux.fr/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentguilleux.fr/portfolio/</guid>
+      <description>goutsdfruits.fr
+Repo GitHub
+Site utilisé par Marie, une amie de ma femme qui est maraîchère. Il a une triple vocation :
+ Présenter la ferme et les produits Permettre aux clients de passer des commandes en ligne Être utilisé par Marie pour le pilotage de son activité : suivi des commandes, des stocks et des clients  Le développement de ce site a été initié durant les 10 jours de projet de fin de formation du Wagon ; j&amp;rsquo;ai depuis continué à ajouter des fonctionnalités et à l&amp;rsquo;améliorer.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://vincentguilleux.fr/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentguilleux.fr/bio/</guid>
+      <description>Je suis en reconversion dans le développement après plus de 15 ans de carrière en conseil en consolidation et contrôle de gestion.
+J&amp;rsquo;ai toujours été attiré par le code. Durant mon ancienne carrière professionnelle, j&amp;rsquo;ai été amené à assister mes clients afin d&amp;rsquo;automatiser leurs processus d&amp;rsquo;élaboration et de clôture de compte. Ce n&amp;rsquo;était cependant pas le coeur de mon métier or c&amp;rsquo;est ce qui me plaisait le plus.
+J&amp;rsquo;ai donc profité du printemps 2020 pour participer au bootcamp du Wagon et je continue depuis à m&amp;rsquo;auto-former et à travailler sur des projets perso.</description>
     </item>
     
   </channel>

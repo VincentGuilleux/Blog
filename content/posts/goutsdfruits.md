@@ -39,9 +39,8 @@ Dans le prochain post, je détaillerai les points non techniques auxquels j'ai �
 
 Pour conclure de façon visuelle, une copie d’écran du dashboard :
 
-![Dashboard](/post4/dashboard.png)
+![Dashboard](/posts/dashboard.png)
 
 Ainsi que le schéma de la base de données :
 
-
-![Database](/post4/database.png)
+![Database](/posts/database.png)

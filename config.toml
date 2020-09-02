@@ -36,12 +36,6 @@ theme = "ananke"
   weight = 5
 
   [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  url = "/portfolio"
-  weight = 5
-
-  [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "mailto:vincent.guilleux11@gmail.com"

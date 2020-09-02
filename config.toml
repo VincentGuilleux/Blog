@@ -30,15 +30,22 @@ theme = "ananke"
   weight = 4
 
   [[menu.main]]
+  identifier = "CV"
+  name = "CV"
+  url = "/other/cv_vincent_guilleux.pdf"
+  weight = 5
+
+  [[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  url = "/portfolio"
+  weight = 5
+
+  [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "mailto:vincent.guilleux11@gmail.com"
-  weight = 5
-
-  [[menu.social]]
-    name = "GitHub"
-    url = "https://github.com/VincentGuilleux"
-    pre = "<i class='fab fa-github'></i>"
+  weight = 6
 
 [params]
 featured_image = "/images/coding_background.jpeg"
